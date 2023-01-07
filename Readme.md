@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Danylo Voloshyn](https://up.htmlacademy.ru/adaptive/27/user/2101121).
-* Наставник: `Неизвестно`.
+* Наставник: [Екатерина Комнатная] (https://htmlacademy.ru/profile/id215761).
 
 ---
 
